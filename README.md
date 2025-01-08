@@ -1,6 +1,7 @@
-This is NextJS starter pack initialised with Typescript, Tailwind, Husky, Prettier and EsLint
+This is NextJS starter pack initialised with Typescript, Tailwind, Husky, Prettier and ESLint
 
 ## Get Started
+
 ```bash
 yarn
 yarn dev
